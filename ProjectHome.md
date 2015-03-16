@@ -1,0 +1,1 @@
+Jewa, pronounced "Yegua" (mare, in spanish) is a java library to communicate to an exchange server using the WebDAV protocol. Some companies disable the IMAP and POP3 capabilities for security constraints, and leave external access to the server using the Outlook Web Application (OWA). This library is intended to access the exchange server the same way OWA does, thru WebDAV.
